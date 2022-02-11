@@ -9,3 +9,10 @@ To run
 ```shell
 npx hardhat run scripts/run.js
 ```
+
+To deploy
+
+```shell
+npx hardhat run scripts/deploy.js
+npx hardhat run scripts/deploy.js --network localhost
+```
